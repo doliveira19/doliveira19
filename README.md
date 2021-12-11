@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @doliveira19
+- 👀 I’m interested in Javascript, Typescript, Node.js, PHP, Laravel, Docker
+- 🌱 I’m currently learning Javascript, Typescript, Node.js
