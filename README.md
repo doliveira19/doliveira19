@@ -17,7 +17,7 @@
 <div>
   <a href="https://github.com/doliveira19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doliveira19&show_icons=true&theme=default&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doliveira19&langs_count=5&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doliveira19&langs_count=10&theme=default"/>
 </div>
 
 <hr/>
