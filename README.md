@@ -16,8 +16,8 @@
 
 <div>
   <a href="https://github.com/doliveira19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doliveira19&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doliveira19&layout=compact&langs_count=8&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doliveira19&show_icons=true&theme=default&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doliveira19&langs_count=5&theme=default"/>
 </div>
 
 <hr/>
