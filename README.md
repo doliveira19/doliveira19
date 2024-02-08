@@ -15,7 +15,7 @@
 ### My GitHub Activity
 
 <div>
-  <img height="180em" src="https://github-readme-stats-tau-one-78.vercel.app/api?username=doliveira19&show_icons=true&theme=default&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-tau-one-78.vercel.app/api?username=doliveira19&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-tau-one-78.vercel.app/api/top-langs/?username=doliveira19&langs_count=10&theme=default&layout=donut"/>
 </div>
 
