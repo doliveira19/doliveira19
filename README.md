@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 - 🙋‍♂️ My name is Daniel Oliveira.
-- 👀 I'm interested in Node.js, Javascript, Typescript, React, PHP, Laravel, Docker.
+- 👀 I'm interested in Node.js, Javascript, Typescript, React, PHP, Laravel, Java, Python, Docker, AWS.
 - 🌱 I'm currently learning Nest.js framework, Java/Spring, Python/Django, AWS.
 
 <hr/>
